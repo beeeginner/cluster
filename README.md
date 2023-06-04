@@ -1,3 +1,5 @@
 # cluster
 Cluster Algorithm package
-目前是更新到了Kmeans算法。
+now available
+KMEANS Algorithm
+Learning Vector Quantization Algorithm
